@@ -1,0 +1,46 @@
+# Snowcodes
+
+> Snowcodes est un studio de développement web et mobile, de motion design et de sites éditables par IA, pour les particuliers et les professionnels. Créé en 2021. Code. Create. Explore.
+
+Snowcodes est une SARL dont le gérant est Alexandre Ruiz. Le studio est basé à Conques-sur-Orbiel (11600), près de Carcassonne, dans l’Aude, en France. Zone d’intervention : la France.
+
+## Services
+
+- Développement sur mesure : développement web et mobile axé sur la qualité et la performance, pensé pour durer.
+- Motion design : interfaces animées, logos et identités en mouvement, expériences interactives (logos, interfaces, interactions).
+- Sites éditables par IA : sites statiques rapides et sécurisés, que le client met à jour en le demandant à une IA. Pour les particuliers et les professionnels.
+- Maîtrise technologique : une seule base de code pour iOS et Android (Flutter), deux applications natives, et le web avec Angular et React.
+- Code augmenté par l’IA : les agents IA sont intégrés au processus (Claude Code, Codex, Cursor, Grok Bot).
+- Accompagnement continu : de la première ligne de code à la mise en production (conseil, suivi, production).
+
+## Repères
+
+- Création du studio : 2021
+- Expérience : plus de 10 ans
+- Délai de réponse : moins de 48 heures
+- Sur mesure : 100 %
+- SIREN : 908 464 076 (numéro RCS Carcassonne, également les 9 premiers chiffres du SIRET 908 464 076 00029)
+- TVA intracommunautaire : FR21908464076
+
+## Zone
+
+- Siège : 10 rue Gaston Leroux, 11600 Conques-sur-Orbiel, France
+- Ville : Conques-sur-Orbiel, près de Carcassonne (Aude)
+- Région : Occitanie
+- Zone d’intervention : France
+
+## Contact
+
+- E-mail : contact@snowcodes.fr
+- Le site ne contient pas de formulaire : écrire à cette adresse.
+
+## Pages
+
+- [Accueil](https://snowcodes.fr/) : services, manifeste, fiche technique, contact
+- [Accueil en anglais](https://snowcodes.fr/en/)
+- [Showcase](https://snowcodes.fr/showcase/) : expérimentations du studio
+- [Showcase en anglais](https://snowcodes.fr/en/showcase/)
+- [Mentions légales](https://snowcodes.fr/mentions-legales/)
+- [Mentions légales en anglais](https://snowcodes.fr/en/mentions-legales/)
+- [Le studio à l’oscilloscope](https://snowcodes.fr/lab/oscillo-studio/index.html) : un faisceau trace la présentation du studio (texte vectoriel, figures de Lissajous, phosphore vert). Aucune vidéo.
+- [Le studio en risographie](https://snowcodes.fr/lab/riso-studio/index.html) : la présentation du studio imprimée en trois encres, et animée.
